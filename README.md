@@ -17,7 +17,7 @@ Description: A simple expence-tracker application built with React and Vite.
 
 ## Deployment
 - Deployed on Vercel
-- Live demo: [expense-tracker](https://gladiator-task-manager.vercel.app/)
+- Live demo: [expense-tracker](http://localhost:5173/)
 
 ## Set Up
 
